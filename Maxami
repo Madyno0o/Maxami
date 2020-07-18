@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  
+
+  <p><h1 align="middle" class="orange">Brix</h1>
+  <br><br><br><br><br>
+  
+  
+  <h1 align="middle" class="orange">Media:</h1>
+  <br>
+  
+  
+  <a href="https://www.youtube.com/channel/UCOdzgVA5uJB-wn-uopuoJpQ">
+    <h2 align="middle">YouTube</h2></a>
+  
+  <a href="https://discord.gg/UGQHwTQ">
+    <h2 align="middle">My Disord Server</h2></a>
+   
+  <a href="twitch.tv/tx_brix">
+    <h2 align="middle">Twitch</h2></a>
+    
+    <a href="instagram.com/brixkbm"> <h2 align="middle">Instagram</h2></a>
+ 
+  <a href="https://twitter.com/BrixYT4">
+    <h2 align="middle">Twitter</h2></a>
+    
+
+  <br><br><br><br><br><br>
+  
+    <h1 align="middle"class="orange">What I do</h1><br>
+  
+    <h3 class="grayy">Hey I'm Brix. I am a content creator on YouTube, and twitch. I also post frequenly on Instagram and Twitter. I mainly play Fortnite, and host customs through my discord, which you can join through the link above. I love interacting and playing with my community, and I hopeyou will join it if you are not already. P.S. Use code OK-Brix in the<em>Fortnite Item-Shop</em>.</h3>
+      
+  
+    <h1 align="middle" class="orange"><strong>-About Me-</strong></h1>
+    <br><br>
+
+   <h3 class="blue">Hi! I'm Brix I live in Canada and I LOVE to play video games and share it to everyone on YouTube, or on Twitch daily.<br>Some things I like to do are to Play Basketball, Make YouTube videos or stream on twitch, and I also like to play video games. I am also very good at computer stuff.<br>I know a lot about computers so I like to fix the outside of them and the inside of them if there is a issue.<br>Last but not least I love talking to my community a lot. Hope this gave you guys a view of who I am.</h3>
+</p>
+
+    
+
+</body>
+</html>
+
+<!DOCTYPE CSS>
+<css>
+
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/729752548314972221/733913879456776212/Brix_4.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.orange {
+  color: #ffa31a;
+}
+h2 {
+  color: #d11aff;
+  font-family: "courier";
+}
+.grayy {
+  color: #cccccc;
+}
+h1 {
+  font-family: "OCR A Std", monospace;
+  font-weight: 900;
+}
+.blue {
+  color: #33ff33;
+  font-family: "cursive";
+}
+</css>
